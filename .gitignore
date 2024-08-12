@@ -164,13 +164,13 @@ $RECYCLE.BIN/
 *.xls
 
 # Image files
-*.jpg
-*.jpeg
-*.png
-*.gif
-*.bmp
-*.tiff
-*.ico
+# *.jpg
+# *.jpeg
+# *.png
+# *.gif
+# *.bmp
+# *.tiff
+# *.ico
 
 # PDF files
 *.pdf
